@@ -1,0 +1,664 @@
+{
+  "version": 3,
+  "song_file": "welcome.ogg",
+  "duration": 13.080090702947846,
+  "bpm_avg": 151.99908088235293,
+  "levels": {
+    "Easy": {
+      "hit_window_ms": 110,
+      "notes": [
+        {
+          "t": 0.336689,
+          "key": "Z",
+          "type": "slider",
+          "duration": 0.960068
+        },
+        {
+          "t": 1.346757,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 1.741497,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.035616,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.283296,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.484535,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.809615,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.076644,
+          "key": "D",
+          "type": "slider",
+          "duration": 0.534369
+        },
+        {
+          "t": 3.661013,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.982222,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 4.318912,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 4.585941,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.06195,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.36381,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.735329,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 6.354528,
+          "key": "D",
+          "type": "slider",
+          "duration": 0.509214
+        },
+        {
+          "t": 6.913741,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.233016,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.416841,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.68387,
+          "key": "D",
+          "type": "slider",
+          "duration": 0.613704
+        },
+        {
+          "t": 8.347574,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 8.626213,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 9.009342,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 9.384732,
+          "key": "D",
+          "type": "slider",
+          "duration": 0.420204
+        },
+        {
+          "t": 9.854936,
+          "key": "Z",
+          "type": "slider",
+          "duration": 0.536304
+        },
+        {
+          "t": 10.44124,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 10.822434,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 11.006259,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 11.400998,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 11.842177,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 12.174996,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 12.503946,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        }
+      ]
+    },
+    "Normal": {
+      "hit_window_ms": 90,
+      "notes": [
+        {
+          "t": 0.336689,
+          "key": "Z",
+          "type": "slider",
+          "duration": 0.960068
+        },
+        {
+          "t": 1.346757,
+          "key": "Q",
+          "type": "slider",
+          "duration": 0.344739
+        },
+        {
+          "t": 1.741497,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.035616,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.283296,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.484535,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.809615,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.076644,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.215964,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.661013,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.982222,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 4.318912,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 4.585941,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 4.717521,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.06195,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.36381,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.522479,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.735329,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 6.354528,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.509214
+        },
+        {
+          "t": 6.913741,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.233016,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.416841,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.68387,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.613704
+        },
+        {
+          "t": 8.347574,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 8.626213,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 8.759728,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 9.009342,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.325389
+        },
+        {
+          "t": 9.384732,
+          "key": "D",
+          "type": "slider",
+          "duration": 0.420204
+        },
+        {
+          "t": 9.854936,
+          "key": "Z",
+          "type": "slider",
+          "duration": 0.536304
+        },
+        {
+          "t": 10.44124,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 10.822434,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 11.006259,
+          "key": "D",
+          "type": "slider",
+          "duration": 0.344739
+        },
+        {
+          "t": 11.400998,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 11.842177,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 12.174996,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 12.503946,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 12.654875,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        }
+      ]
+    },
+    "Hard": {
+      "hit_window_ms": 70,
+      "notes": [
+        {
+          "t": 0.336689,
+          "key": "Z",
+          "type": "slider",
+          "duration": 0.960068
+        },
+        {
+          "t": 1.346757,
+          "key": "Q",
+          "type": "slider",
+          "duration": 0.344739
+        },
+        {
+          "t": 1.741497,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.244119
+        },
+        {
+          "t": 2.035616,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.283296,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.484535,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 2.809615,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.076644,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.215964,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 3.661013,
+          "key": "Q",
+          "type": "slider",
+          "duration": 0.271209
+        },
+        {
+          "t": 3.982222,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.286689
+        },
+        {
+          "t": 4.318912,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 4.585941,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 4.717521,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.06195,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.251859
+        },
+        {
+          "t": 5.36381,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.522479,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 5.735329,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 6.354528,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.509214
+        },
+        {
+          "t": 6.913741,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.233016,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.416841,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 7.68387,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.613704
+        },
+        {
+          "t": 8.347574,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 8.626213,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 8.759728,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 9.009342,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.325389
+        },
+        {
+          "t": 9.384732,
+          "key": "D",
+          "type": "slider",
+          "duration": 0.420204
+        },
+        {
+          "t": 9.854936,
+          "key": "Z",
+          "type": "slider",
+          "duration": 0.536304
+        },
+        {
+          "t": 10.44124,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 10.822434,
+          "key": "S",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 11.006259,
+          "key": "D",
+          "type": "slider",
+          "duration": 0.344739
+        },
+        {
+          "t": 11.400998,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 11.842177,
+          "key": "Q",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 12.174996,
+          "key": "S",
+          "type": "slider",
+          "duration": 0.278949
+        },
+        {
+          "t": 12.503946,
+          "key": "D",
+          "type": "tap",
+          "duration": 0.0
+        },
+        {
+          "t": 12.654875,
+          "key": "Z",
+          "type": "tap",
+          "duration": 0.0
+        }
+      ]
+    }
+  },
+  "analysis": {
+    "has_librosa": true,
+    "beats_count": 34
+  },
+  "generated_at": "2025-09-05 20:39:35"
+}
