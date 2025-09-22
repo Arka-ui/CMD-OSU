@@ -1,0 +1,55 @@
+# Fichiers de compilation Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers de configuration sensible
+.env
+.venv
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Fichiers de projet (IDE)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Fichiers de données de jeu
+*.log
+scores.txt
+replays/
+maps/
+songs/
+
+# Exceptions (conservez ces dossiers mais ignorez leur contenu)
+!replays/.gitkeep
+!maps/.gitkeep
+!songs/.gitkeep

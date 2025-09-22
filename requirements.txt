@@ -1,0 +1,8 @@
+# Core dependencies for Terminal osu!
+pygame>=2.0.0
+colorama>=0.4.4
+
+# Audio analysis dependencies (recommended for better beat detection)
+librosa>=0.8.0
+numpy>=1.20.0
+mutagen>=1.45.0
